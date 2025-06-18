@@ -18,7 +18,7 @@
   🏢 Worked at <strong>Webbuggs, Daira Engineering</strong>, and <strong>Wide Dimension</strong>.<br>
   💻 <strong>Frontend:</strong> React, Next.js, Remix.js, Vue.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, MUI, MDB, Chakra UI, React Bootstrap.<br>
   🔧 <strong>Backend:</strong> Node.js, Express, Nest.js, TypeScript, Python Django, MySQL, MongoDB, Postgres.<br>
-  🔨 Built <strong>Minimis Launcher</strong> Full Admin Dashboard & Landing Pages for:<br>
+  🔨 Built <strong>Minimis Launcher</strong> Full Admin Dashboard & Landing Pages for
   <strong>Minimis Company</strong>, <strong>Foxtow</strong>, <strong>Intelliaudit</strong>, <strong>ALs Asphalt</strong>, <strong>Invoice My Clients</strong>, <strong>Divine Marvels</strong>, <strong>Zazu Digital Talent</strong>, <strong>Basic-Rag LLM</strong>, <strong>RehabCeos CMS</strong><br>
   🌐 Integrated APIs: OpenAI, Google, Meta (Facebook, TikTok), Outlook, Notion, Zoom, Payment Systems.<br>
   ☁️ Experience with: AWS, Contentful, Strapi, Supabase, Shopify Apps.<br>
@@ -113,4 +113,13 @@
   </div>
 
   <br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sohaibamjad169&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sohaibamjad169&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibamjad169&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sohaibamjad169's contribution graph" />
+    </picture>
+  </a>
+
 </p>
