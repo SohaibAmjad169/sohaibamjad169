@@ -10,8 +10,10 @@
 
 <br />
 
-  <strong>MERN Stack & Python Developer from Pakistan 🇵🇰</strong><br>
 <p align="center">
+  <strong>MERN Stack & Python Developer from Pakistan 🇵🇰</strong><br>
+  </p>
+<p>
   💼 <strong>3+ years</strong> of full-stack development experience.<br>
   🏢 Worked at <strong>Webbuggs, Daira Engineering</strong>, and <strong>Wide Dimension</strong>.<br>
   💻 <strong>Frontend:</strong> React, Next.js, Remix.js, Vue.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, MUI, MDB, Chakra UI, React Bootstrap.<br>
