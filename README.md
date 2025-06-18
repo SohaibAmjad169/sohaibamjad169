@@ -129,42 +129,23 @@
 <br />
 
 <div width="100%" align="center">
-  <!-- repo 1 -->
-  <a align="right" href="https://github.com/sanidhyy/duolingo-clone" title="Duolingo Clone">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" alt="sanidhyy's repository stats - Duolingo Clone" />
-    </picture>
-  </a>
-
-  <!-- repo 2 -->
-  <a align="left" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3D portfolio" />
-    </picture>
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 <!-- second row -->
 <div width="100%" align="center">
   <!-- repo 3 -->
   <a align="left" href="https://github.com/SohaibAmjad169/riders_revolution_frontend" title="Riders Revolution Frontend">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=mern-admin&theme=graywhite&border_radius=10" alt="SohaibAmjad169's repository stats - Riders Revolution Frontend" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=riders_revolution_frontend&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=riders_revolution_frontend&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=riders_revolution_frontend&theme=graywhite&border_radius=10" alt="SohaibAmjad169's repository stats - Riders Revolution Frontend" />
     </picture>
   </a>
 
   <!-- repo 4 -->
   <a align="right" href="https://github.com/SohaibAmjad169/riders_revolution_backend" title="Riders Revolution Frontend">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=brainwave&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=brainwave&theme=graywhite&border_radius=10" alt="SohaibAmjad169's repository stats - Riders Revolution Frontend" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=riders_revolution_backend&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=riders_revolution_backend&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SohaibAmjad169&repo=riders_revolution_backend&theme=graywhite&border_radius=10" alt="SohaibAmjad169's repository stats - Riders Revolution Frontend" />
     </picture>
   </a>
 </div>
