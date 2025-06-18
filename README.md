@@ -106,7 +106,6 @@
       </picture>
     </a>
 
-    <!-- github stats -->
    <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
   <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=sohaibamjad169&show_icons=true&theme=default&border_color=61dafb" alt="Sohaib Amjad's GitHub stats" />
 </a>
