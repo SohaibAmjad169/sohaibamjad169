@@ -11,22 +11,16 @@
 <br />
 
 <p align="center">
-  <h2 align="center"><strong>Hi, I'm Sohaib Amjad 👋</strong></h2>
-  <strong>🇵🇰 MERN Stack & Python Developer from Pakistan</strong><br><br>
-
+  <strong>MERN Stack & Python Developer from Pakistan 🇵🇰</strong><br><br>
   💼 <strong>3+ years</strong> of full-stack development experience.<br>
   🏢 Worked at <strong>Webbuggs, Daira Engineering</strong>, and <strong>Wide Dimension</strong>.<br><br>
-
   💻 <strong>Frontend:</strong> React, Next.js, Remix.js, Vue.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, MUI, MDB, Chakra UI, React Bootstrap.<br>
   🔧 <strong>Backend:</strong> Node.js, Express, Nest.js, TypeScript, Python Django, MySQL, MongoDB, Postgres.<br><br>
-
   🔨 Built <strong>Minimis Launcher</strong> Full Admin Dashboard & Landing Pages for:<br>
   <strong>Minimis Company</strong>, <strong>Foxtow</strong>, <strong>Intelliaudit</strong>, <strong>ALs Asphalt</strong>, <strong>Invoice My Clients</strong>, <strong>Divine Marvels</strong>, <strong>Zazu Digital Talent</strong>, <strong>Basic-Rag LLM</strong>, <strong>RehabCeos CMS</strong><br><br>
-
   🌐 Integrated APIs: OpenAI, Google, Meta (Facebook, TikTok), Outlook, Notion, Zoom, Payment Systems.<br>
   ☁️ Experience with: AWS, Contentful, Strapi, Supabase, Shopify Apps.<br>
   🤖 AI Work: Prompt engineering with Python & Mudusajs.<br><br>
-
   🎯 <strong>Focused on scalable, performant, and user-friendly applications.</strong>
 </p>
 
