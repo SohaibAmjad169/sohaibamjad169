@@ -102,7 +102,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sohaibAmjad169&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=sohaibAmjad169&theme=default&border=61dafb" />
-        <img align="left" width="390" src="https://streak-stats.demolab.com/?user=sohaibAmjad169&theme=default&border=61dafb" alt="sohaibAmjad169's streak stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibAmjad169&theme=react&hide_border=true" />
       </picture>
     </a>
 
