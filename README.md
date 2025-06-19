@@ -101,8 +101,8 @@
     <a href="" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sohaibAmjad169&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=sohaibamjad169&count_private=true&show_icons=true&theme=default&rank_icon=github&&border_color=61dafb" />
-        <img align="left" width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=sohaibamjad169&count_private=true&show_icons=true&theme=default&rank_icon=github&border_color=61dafb" alt="sohaibAmjad169's streak stats" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=sohaibamjad169&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border_color=61dafb" />
+        <img align="left" width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=sohaibamjad169&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border_color=61dafb" alt="sohaibAmjad169's streak stats" />
       </picture>
     </a>
 
