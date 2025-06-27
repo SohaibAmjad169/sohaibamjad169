@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sohaibAmjad169">
+<img align="right" src="https://komarev.com/ghpvc/?username=sohaibamjad169">
 
 <!-- introduction -->
 <h1 align="center">
@@ -80,9 +80,9 @@
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohaibAmjad169/sohaibAmjad169/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/sohaibAmjad169/sohaibAmjad169/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/sohaibAmjad169/sohaibAmjad169/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohaibamjad169/sohaibamjad169/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/sohaibamjad169/sohaibamjad169/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sohaibamjad169/sohaibamjad169/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </picture>
   <br />
   <br />
@@ -100,9 +100,9 @@
     <!-- streak stats -->
     <a href="" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sohaibAmjad169&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=sohaibamjad169&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" />
-        <img align="left" width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sohaibamjad169&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&border=61dafb" alt="sohaibAmjad169's streak stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sohaibamjad169&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=sohaibamjad169&theme=default&border=61dafb" />
+        <img align="left" width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=sohaibamjad169&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="sohaibamjad169's streak stats" />
       </picture>
     </a>
 
@@ -116,9 +116,9 @@
 
   <a href="" title="Go to Source">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sohaibAmjad169&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sohaibAmjad169&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibAmjad169&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sohaibAmjad169's contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sohaibamjad169&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sohaibamjad169&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibamjad169&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sohaibamjad169's contribution graph" />
     </picture>
   </a>
 </p>
@@ -132,20 +132,20 @@
 <!-- second row -->
 <div width="100%" align="center">
   <!-- repo 3 -->
-  <a align="left" href="https://github.com/sohaibAmjad169/riders_revolution_frontend" title="Riders Revolution Frontend">
+  <a align="left" href="https://github.com/sohaibamjad169/riders_revolution_frontend" title="Riders Revolution Frontend">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sohaibAmjad169&repo=riders_revolution_frontend&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sohaibAmjad169&repo=riders_revolution_frontend&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaibAmjad169&repo=riders_revolution_frontend&theme=graywhite&border_radius=10" alt="sohaibAmjad169's repository stats - Riders Revolution Frontend" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sohaibamjad169&repo=riders_revolution_frontend&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sohaibamjad169&repo=riders_revolution_frontend&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaibamjad169&repo=riders_revolution_frontend&theme=graywhite&border_radius=10" alt="sohaibamjad169's repository stats - Riders Revolution Frontend" />
     </picture>
   </a>
 
   <!-- repo 4 -->
-  <a align="right" href="https://github.com/sohaibAmjad169/riders_revolution_backend" title="Riders Revolution Frontend">
+  <a align="right" href="https://github.com/sohaibamjad169/riders_revolution_backend" title="Riders Revolution Frontend">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sohaibAmjad169&repo=riders_revolution_backend&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sohaibAmjad169&repo=riders_revolution_backend&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaibAmjad169&repo=riders_revolution_backend&theme=graywhite&border_radius=10" alt="sohaibAmjad169's repository stats - Riders Revolution Frontend" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sohaibamjad169&repo=riders_revolution_backend&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sohaibamjad169&repo=riders_revolution_backend&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaibamjad169&repo=riders_revolution_backend&theme=graywhite&border_radius=10" alt="sohaibamjad169's repository stats - Riders Revolution Frontend" />
     </picture>
   </a>
 </div>
@@ -156,5 +156,5 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/sohaibAmjad169?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/sohaibamjad169?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
